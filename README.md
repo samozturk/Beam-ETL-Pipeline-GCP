@@ -7,7 +7,7 @@ This simple program is for learning purposes. \
 
 Therefore, you need create relevant topics and subscriptions.
 Topic 1: Movies\
-Subscription: movies_subscription\
+Subscription: movies_subscription
 
 Topic 2: comedy_movies\
 Subscription: comedy_movies_subscription
