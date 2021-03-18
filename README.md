@@ -11,3 +11,5 @@ Subscription: movies_subscription
 
 Topic 2: comedy_movies\
 Subscription: comedy_movies_subscription
+
+And also you need to create a service account with project editor permission.
